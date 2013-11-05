@@ -1,0 +1,6 @@
+
+function TestContrl($scope, $http){
+	
+  	
+	
+}
